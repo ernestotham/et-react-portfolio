@@ -106,7 +106,7 @@ export default function about() {
           <br></br>
           <p style={{ color: 'white' }}>
             I graduated from Kennesaw State University with a bachelor's degree in Computer Science.
-            I have 13 years’ experience system Engineering. I specialized on mergers and acquisitions, privilege Identity management and automation.
+            I have 13 years of experience in system Engineering. I specialize on mergers and acquisitions, privilege identity and access management, and automation.
             I love designing and building applications and keeping up with the latest technology. I am currently working on getting a certification as a software Engineer at Georgia Tech.
 
 

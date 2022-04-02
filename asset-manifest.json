@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/et-react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/et-react-portfolio/static/js/main.80df42ae.js",
+    "main.css": "/et-react-portfolio/static/css/main.2f4582da.css",
+    "main.js": "/et-react-portfolio/static/js/main.cb1864ca.js",
     "static/js/787.f003cb81.chunk.js": "/et-react-portfolio/static/js/787.f003cb81.chunk.js",
-    "static/media/logo.svg": "/et-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/me.jpg": "/et-react-portfolio/static/media/me.069efae0e08dd099467a.jpg",
+    "static/media/ErnestoResume2022.pdf": "/et-react-portfolio/static/media/ErnestoResume2022.aa1c74917594263512cc.pdf",
+    "static/media/weatherapp.jpg": "/et-react-portfolio/static/media/weatherapp.668d3db8689ee9cf641e.jpg",
+    "static/media/BitFit.png": "/et-react-portfolio/static/media/BitFit.a55e56a88bbd5e561f2a.png",
+    "static/media/2019-deep-space-background.jpg": "/et-react-portfolio/static/media/2019-deep-space-background.92cb2762ec33d64b59ae.jpg",
+    "static/media/scheduler.jpg": "/et-react-portfolio/static/media/scheduler.5de225ace8cd797b3581.jpg",
+    "static/media/githomies.jpg": "/et-react-portfolio/static/media/githomies.6c055216b6c9b166e00f.jpg",
+    "static/media/EmployeeManager.jpg": "/et-react-portfolio/static/media/EmployeeManager.0101f76a766e04aeb459.jpg",
+    "static/media/techBlog.jpg": "/et-react-portfolio/static/media/techBlog.17ada3bcd381c5a71bdc.jpg",
     "index.html": "/et-react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/et-react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.80df42ae.js.map": "/et-react-portfolio/static/js/main.80df42ae.js.map",
+    "main.2f4582da.css.map": "/et-react-portfolio/static/css/main.2f4582da.css.map",
+    "main.cb1864ca.js.map": "/et-react-portfolio/static/js/main.cb1864ca.js.map",
     "787.f003cb81.chunk.js.map": "/et-react-portfolio/static/js/787.f003cb81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.80df42ae.js"
+    "static/css/main.2f4582da.css",
+    "static/js/main.cb1864ca.js"
   ]
 }

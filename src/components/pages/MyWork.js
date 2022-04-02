@@ -46,14 +46,13 @@ export default function MyWork() {
               <Card style={{ width: '18rem', alignitems: "center" }}>
                 <Card.Img className="p-2 bg-light border" variant="top" src={bitfit} style={styleimg} />
                 <Card.Body className="justify-center" style={{ alignitems: "center" }}>
-                  <Card.Title>Card Title</Card.Title>
+                  <Card.Title>Bitfit</Card.Title>
                   <Card.Text>
-                    Some quick example text to build on the card title and make up the bulk of
-                    the card's content.
+                  A webpage built to collect and display a user's NFT's.
                   </Card.Text>
                   <div className="d-flex justify-content-center mx-2">
                     <a 
-                      href="https://github.com/ernestotham"
+                      href="https://github.com/mcstewart76/BitFit"
                       style={{ color: "black", width:"20px",height:"20px"}}
                       target="_blank"
                       rel="noopener noreferrer">
@@ -61,7 +60,7 @@ export default function MyWork() {
                       </a>
 
                   
-                    <a href="https://github.com/ernestotham"
+                    <a href="https://bitfitted.herokuapp.com/"
                       style={{ color: "black" }}
                       target="_blank"
                       rel="noopener noreferrer" >
@@ -75,14 +74,13 @@ export default function MyWork() {
               <Card fluid style={{ width: '18rem' }}>
                 <Card.Img variant="top" src={githomies} style={styleimg} />
                 <Card.Body>
-                  <Card.Title>Card Title</Card.Title>
+                  <Card.Title>GitHomies</Card.Title>
                   <Card.Text>
-                    Some quick example text to build on the card title and make up the bulk of
-                    the card's content.
+                  Social media collaboration tool for developers to share their works.
                   </Card.Text>
                   <div className="d-flex justify-content-center mx-2">
                     <a 
-                      href="https://github.com/ernestotham"
+                      href="https://github.com/mcstewart76/gitHomies"
                       style={{ color: "black", width:"20px",height:"20px"}}
                       target="_blank"
                       rel="noopener noreferrer">
@@ -90,7 +88,7 @@ export default function MyWork() {
                       </a>
 
                   
-                    <a href="https://github.com/ernestotham"
+                    <a href="https://gh.githomies.com/"
                       style={{ color: "black" }}
                       target="_blank"
                       rel="noopener noreferrer" >
@@ -106,14 +104,13 @@ export default function MyWork() {
               <Card fluid style={{ width: '18rem' }}>
                 <Card.Img variant="top" src={weatherapp} style={styleimg} />
                 <Card.Body>
-                  <Card.Title>Card Title</Card.Title>
+                  <Card.Title>Weather Dashboard</Card.Title>
                   <Card.Text>
-                    Some quick example text to build on the card title and make up the bulk of
-                    the card's content.
+                    Weatehr app using the Open weatehr api .
                   </Card.Text>
                   <div className="d-flex justify-content-center mx-2">
                     <a 
-                      href="https://github.com/ernestotham"
+                      href="https://github.com/ernestotham/ET-Weather-Dashboard"
                       style={{ color: "black", width:"20px",height:"20px"}}
                       target="_blank"
                       rel="noopener noreferrer">
@@ -121,7 +118,7 @@ export default function MyWork() {
                       </a>
 
                   
-                    <a href="https://github.com/ernestotham"
+                    <a href="https://ernestotham.github.io/ET-Weather-Dashboard/"
                       style={{ color: "black" }}
                       target="_blank"
                       rel="noopener noreferrer" >
@@ -142,14 +139,13 @@ export default function MyWork() {
               <Card fluid style={{ width: '18rem' }}>
                 <Card.Img variant="top" src={scheduler} style={styleimg} />
                 <Card.Body>
-                  <Card.Title>Card Title</Card.Title>
+                  <Card.Title>Work Day Scheduler</Card.Title>
                   <Card.Text>
-                    Some quick example text to build on the card title and make up the bulk of
-                    the card's content.
+                    Javascript app to keep track of your day to day work.
                   </Card.Text>
                   <div className="d-flex justify-content-center mx-2">
                     <a 
-                      href="https://github.com/ernestotham"
+                      href="https://github.com/ernestotham/ET-WorkDayScheduler"
                       style={{ color: "black", width:"20px",height:"20px"}}
                       target="_blank"
                       rel="noopener noreferrer">
@@ -157,7 +153,7 @@ export default function MyWork() {
                       </a>
 
                   
-                    <a href="https://github.com/ernestotham"
+                    <a href="https://ernestotham.github.io/ET-WorkDayScheduler/"
                       style={{ color: "black" }}
                       target="_blank"
                       rel="noopener noreferrer" >
@@ -171,14 +167,13 @@ export default function MyWork() {
               <Card fluid style={{ width: '18rem' }}>
                 <Card.Img variant="top" src={employeeMan} style={styleimg} />
                 <Card.Body>
-                  <Card.Title>Card Title</Card.Title>
+                  <Card.Title>EmployeeManager</Card.Title>
                   <Card.Text>
-                    Some quick example text to build on the card title and make up the bulk of
-                    the card's content.
+                    CLI application using Javascript, inquirer and Mysql .
                   </Card.Text>
                   <div className="d-flex justify-content-center mx-2">
                     <a 
-                      href="https://github.com/ernestotham"
+                      href="https://github.com/ernestotham/ET-EmployeeManager"
                       style={{ color: "black", width:"20px",height:"20px"}}
                       target="_blank"
                       rel="noopener noreferrer">
@@ -186,7 +181,7 @@ export default function MyWork() {
                       </a>
 
                   
-                    <a href="https://github.com/ernestotham"
+                    <a href="https://watch.screencastify.com/v/VkDnfHubwJtXFOf7rUoR"
                       style={{ color: "black" }}
                       target="_blank"
                       rel="noopener noreferrer" >
@@ -202,14 +197,13 @@ export default function MyWork() {
               <Card fluid style={{ width: '18rem' }}>
                 <Card.Img variant="top" src={techblog} style={styleimg} />
                 <Card.Body>
-                  <Card.Title>Card Title</Card.Title>
+                  <Card.Title>Tech Blog</Card.Title>
                   <Card.Text>
-                    Some quick example text to build on the card title and make up the bulk of
-                    the card's content.
+                    This a blog application coded with JavaScript, node, express and sequelize.
                   </Card.Text>
                   <div className="d-flex justify-content-center mx-2">
                     <a 
-                      href="https://github.com/ernestotham"
+                      href="https://github.com/ernestotham/ET-TechBlog"
                       style={{ color: "black", width:"20px",height:"20px"}}
                       target="_blank"
                       rel="noopener noreferrer">
@@ -217,7 +211,7 @@ export default function MyWork() {
                       </a>
 
                   
-                    <a href="https://github.com/ernestotham"
+                    <a href="https://et-the-tech-blog.herokuapp.com/"
                       style={{ color: "black" }}
                       target="_blank"
                       rel="noopener noreferrer" >

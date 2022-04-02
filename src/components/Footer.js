@@ -11,9 +11,11 @@ export default function Footer() {
     <Container className="footer" >
 
       
-      <Row bg="light" variant="light" md='4'>
+      <Row bg="light" variant="light" mx='4' md='4'>
         <Col md="4">
-          <h3 className='mx-2' id="Contactme">Contact me:</h3>
+          <h3 className='mx-2' id="Contactme">Ernesto Tham</h3>
+          <h3 className='mx-2' id="Contactme">ernestotha@gmail.com</h3>
+          <h3 className='mx-2' id="Contactme">404 277 9427</h3>
         </Col>
         
         <Col md="4" padding="2">

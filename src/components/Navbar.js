@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
+import { Link } from 'react-router-dom';
 
 
 
@@ -20,10 +21,13 @@ export default function NavbarComponet() {
    
     
     <Nav >
-      <Nav.Link href="/About">About</Nav.Link>
-      <Nav.Link href="/Work">Work</Nav.Link>
-      <Nav.Link href="/Resume">Resume</Nav.Link>
-      <Nav.Link to="#Contactme">Contact Me</Nav.Link>
+      <Link className="mx-2 text-light" to="/About">About</Link>
+      <Link className="mx-2 text-light"to="/Work">Work</Link>
+      <Link className="mx-2 text-light"to="/Resume">Resume</Link>
+      <Link className="mx-2 text-light"to="#Contactme">Contact Me</Link>
+      
+        
+      
     </Nav>
     </Container>
   </Navbar>

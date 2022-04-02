@@ -9,8 +9,8 @@ import techStackList from '../dataMaps/technologies.js'
 
 
 const styles = { color: 'white', background: 'black', padding: '40px', borderRadius: 25 + 'px' }
-const stylesConttributions = { color: 'white', background: 'black', padding: '40px', borderRadius: 25 + 'px' }
-const stylesCol = { color: 'white', fontSize: '20px', padding: '40px', boderstyle: 'solid', boder: 'black' }
+const stylesContributions = { color: 'white', background: 'black', padding: '40px', borderRadius: 25 + 'px' }
+const stylesCol = { color: 'white', fontSize: '20px', padding: '40px', borderStyle: 'solid', border: 'black' }
 const stylesCont = { padding: '2px' }
 
 
@@ -23,16 +23,15 @@ const renderOtherTechnologies = () => {
       
       {techStackList.Other.map((card, idx) => (
        
-       <Card key={idx} style={{ width: '18rem' }} className="mb-2"
-     >
-       <Card.Header>Header</Card.Header>
+       <Card key={card.id} style={{ width: '18rem' }} className="mb-2">
+       <Card.Header>{card.title}</Card.Header>
        <Card.Body>
-       <Card.Img id="top" src="holder.js/100px180?text=Image cap" />
+       <Card.Img key={card.id} src={card.path} />
          <Card.Title>{card.title}</Card.Title>
          <Card.Text>
-           Some 
+           
            {card.path}
-         </Card.Text>npm startDelay
+         </Card.Text>
        </Card.Body>
      </Card>
       )
@@ -143,10 +142,10 @@ export default function about() {
 
       <Container>  
     
-      <Row>
+      {/* <Row>
             {renderOtherTechnologies()}
 
-      </Row>
+      </Row> */}
 
       </Container>    
 
@@ -168,7 +167,7 @@ export default function about() {
       <Row >
         <Col >
           <div className="d-flex justify-content-center">
-            <GitHubCalendar username="ernestotham" style={stylesConttributions} />
+            <GitHubCalendar username="ernestotham" style={stylesContributions} />
             <br />
             <br />
             <br />

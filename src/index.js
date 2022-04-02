@@ -15,11 +15,12 @@ ReactDOM.render(
   <BrowserRouter>
   <Navbar />
   <Routes>
-    <Route path="/" element={<About />} />
+    <Route exact path="/" element={<About />} />
     <Route path="/about" element={<About />} />
     <Route path="/work" element={<Work />} />
     <Route path="/resume" element={<Resume />} />
-    <Route path="ET-PORTFOLIO-REACT" element={<About />} />
+    <Route path="/et-react-portfolio" element={<About />} />
+
    
   </Routes>
   <Footer/>

@@ -45,7 +45,7 @@ export default function Footer() {
               <a
                 href="mailto:ernestotha@gmail.com"
                 style={{ color: "white" }}
-                target="_blank" 
+               
                 rel="noopener noreferrer"
               >
                 <SiGmail className="d-flex justify-content-center mx-2"/>

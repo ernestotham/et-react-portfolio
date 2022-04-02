@@ -66,3 +66,6 @@ For any questions reach out to me at ernestotha@gmail.com
 Portfolio: https://ernestotham.github.io/About
 
 
+
+![react-portfolio](https://user-images.githubusercontent.com/23125242/161365671-4f053797-8d5e-4a8a-8067-0d920f4af187.jpg)
+

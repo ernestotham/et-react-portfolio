@@ -35,7 +35,7 @@ export default function MyWork() {
       <br />
       <br />
       <br />
-      <Row><Col className="d-flex  justify-content-center mb-5" style={{color:"white" }}><h1>My Works!!!</h1></Col></Row>
+      <Row><Col className="d-flex  justify-content-center mb-5" style={{color:"white" }}><h1>Recent Projects</h1></Col></Row>
 
       <Carousel className="d-flex justify-content-center mt-5" activeIndex={index} onSelect={handleSelect} >
 

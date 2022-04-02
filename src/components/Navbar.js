@@ -24,7 +24,7 @@ export default function NavbarComponet() {
       <Link className="mx-2 text-light" to="/About">About</Link>
       <Link className="mx-2 text-light"to="/Work">Work</Link>
       <Link className="mx-2 text-light"to="/Resume">Resume</Link>
-      <Link className="mx-2 text-light"to="#Contactme">Contact Me</Link>
+     
       
         
       
